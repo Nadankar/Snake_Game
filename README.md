@@ -1,2 +1,2 @@
 # Snake_Game
-Most interesting project by using html,css,javascript.
+Most interesting project using html,css,javascript.
